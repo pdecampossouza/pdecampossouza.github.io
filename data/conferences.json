@@ -184,6 +184,47 @@
       ]
     },
     {
+      "id": "smc-2022-prague",
+      "event": "IEEE SMC 2022",
+      "eventFull": "2022 IEEE International Conference on Systems, Man, and Cybernetics (SMC)",
+      "year": 2022,
+      "city": {
+        "en": "Prague",
+        "pt": "Praga"
+      },
+      "country": {
+        "en": "Czech Republic",
+        "pt": "República Tcheca"
+      },
+      "countryCode": "CZ",
+      "region": "europe",
+      "lat": 50.0755,
+      "lon": 14.4378,
+      "paper": "Evolving fuzzy neural network based on null-unineurons for the identification of coronary artery disease",
+      "note": {
+        "en": "9–12 October 2022 · A paper coauthored with Augusto Junio Guimarães, Huoston Rodrigues Batista and Edwin Lughofer.",
+        "pt": "9–12 de outubro de 2022 · Trabalho em coautoria com Augusto Junio Guimarães, Huoston Rodrigues Batista e Edwin Lughofer."
+      },
+      "url": "https://www.ieeesmc.org/events/ieee-smc-2022-international-conference-on-systems-man-and-cybernetics/",
+      "attendance": "user-confirmed",
+      "authors": [
+        "Augusto Junio Guimarães",
+        "Paulo Vitor de Campos Souza",
+        "Huoston Rodrigues Batista",
+        "Edwin Lughofer"
+      ],
+      "doi": "10.1109/SMC53654.2022.9945296",
+      "pages": "2681–2688",
+      "date_start": "2022-10-09",
+      "date_end": "2022-10-12",
+      "sources": [
+        "https://www.ieeesmc.org/events/ieee-smc-2022-international-conference-on-systems-man-and-cybernetics/",
+        "https://www.fwf.ac.at/en/research-radar/10.55776/P32272",
+        "https://huoston.art/research/",
+        "https://doi.org/10.1109/SMC53654.2022.9945296"
+      ]
+    },
+    {
       "id": "mexico-city-ssci-2023",
       "event": "SSCI 2023",
       "eventFull": "IEEE Symposium Series on Computational Intelligence (SSCI 2023)",
