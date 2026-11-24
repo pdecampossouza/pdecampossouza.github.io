@@ -1,0 +1,475 @@
+{
+  "schema_version": 1,
+  "updated": "2026-11-24",
+  "visits": [
+    {
+      "id": "belo-horizonte-cba-2014",
+      "event": "CBA 2014",
+      "eventFull": "XX Congresso Brasileiro de Automática (CBA 2014)",
+      "year": 2014,
+      "city": {
+        "en": "Belo Horizonte",
+        "pt": "Belo Horizonte"
+      },
+      "country": {
+        "en": "Brazil",
+        "pt": "Brasil"
+      },
+      "countryCode": "BR",
+      "region": "americas",
+      "lat": -19.9208,
+      "lon": -43.9378,
+      "paper": "Análise de Algoritmos de Maximização de Margem Baseados em Grafos de Gabriel e Fecho Afim",
+      "url": "https://www.sba.org.br/web/paginas/view?id=12",
+      "attendance": "user-recalled",
+      "sources": [
+        "https://www.sba.org.br/web/paginas/view?id=12",
+        "https://flll.jku.at/staff/paulo"
+      ]
+    },
+    {
+      "id": "natal-sbai-2015",
+      "event": "SBAI 2015",
+      "eventFull": "XII Simpósio Brasileiro de Automação Inteligente (SBAI 2015)",
+      "year": 2015,
+      "city": {
+        "en": "Natal",
+        "pt": "Natal"
+      },
+      "country": {
+        "en": "Brazil",
+        "pt": "Brasil"
+      },
+      "countryCode": "BR",
+      "region": "americas",
+      "lat": -5.7945,
+      "lon": -35.211,
+      "paper": "Redes neurais nebulosas regularizadas para problemas de classificação",
+      "url": "https://sba.org.br/web/eventos/view?id=2",
+      "attendance": "user-recalled",
+      "sources": [
+        "https://sba.org.br/web/eventos/view?id=2",
+        "https://www.sba.org.br/web/paginas/view?id=12",
+        "https://flll.jku.at/staff/paulo"
+      ]
+    },
+    {
+      "id": "fortaleza-nafips-cbsf-2018",
+      "event": "NAFIPS / CBSF 2018",
+      "eventFull": "NAFIPS 2018 and V Congresso Brasileiro de Sistemas Fuzzy (CBSF 2018)",
+      "year": 2018,
+      "city": {
+        "en": "Fortaleza",
+        "pt": "Fortaleza"
+      },
+      "country": {
+        "en": "Brazil",
+        "pt": "Brasil"
+      },
+      "countryCode": "BR",
+      "region": "americas",
+      "lat": -3.7319,
+      "lon": -38.5267,
+      "paper": "Regularized Fuzzy Neural Network Based on Or Neuron for Time Series Forecasting; Detecção de pulsares utilizando redes neurais nebulosas baseadas em uninormas",
+      "url": "https://nafips2018.wordpress.com/program/",
+      "attendance": "user-recalled",
+      "sources": [
+        "https://nafips2018.wordpress.com/program/",
+        "https://link.springer.com/book/10.1007/978-3-319-95312-0",
+        "https://flll.jku.at/staff/paulo"
+      ],
+      "note": {
+        "en": "Joint meeting of NAFIPS and the Brazilian Congress on Fuzzy Systems.",
+        "pt": "Encontro conjunto da NAFIPS e do Congresso Brasileiro de Sistemas Fuzzy."
+      }
+    },
+    {
+      "id": "sao-paulo-icofcs-2018",
+      "event": "ICoFCS 2018",
+      "eventFull": "10th International Conference on Forensic Computer Science and Cyber Law (ICoFCS 2018)",
+      "year": 2018,
+      "city": {
+        "en": "São Paulo",
+        "pt": "São Paulo"
+      },
+      "country": {
+        "en": "Brazil",
+        "pt": "Brasil"
+      },
+      "countryCode": "BR",
+      "region": "americas",
+      "lat": -23.5505,
+      "lon": -46.6333,
+      "paper": "Utilização de Redes Neurais Nebulosas para criação de um Sistema Especialista em Invasões Cibernéticas",
+      "url": "https://icofcs.org/2018/ICoFCS-2018-FULL.pdf",
+      "attendance": "user-recalled",
+      "sources": [
+        "https://icofcs.org/2018/ICoFCS-2018-FULL.pdf",
+        "https://flll.jku.at/staff/paulo"
+      ]
+    },
+    {
+      "id": "guadalajara-la-cci-2018",
+      "event": "LA-CCI 2018",
+      "eventFull": "5th IEEE Latin American Conference on Computational Intelligence (LA-CCI 2018)",
+      "year": 2018,
+      "city": {
+        "en": "Guadalajara",
+        "pt": "Guadalajara"
+      },
+      "country": {
+        "en": "Mexico",
+        "pt": "México"
+      },
+      "countryCode": "MX",
+      "region": "americas",
+      "lat": 20.6597,
+      "lon": -103.3496,
+      "paper": "Method of pruning the hidden layer of the extreme learning machine based on correlation coefficient",
+      "url": "https://cis.ieee.org/images/files/Documents/Newsletter/IEEE-CIS-Newsletter-Issue-69-October-2018-_-IEEE-Computational-Intelligence-Society.pdf",
+      "attendance": "user-recalled",
+      "sources": [
+        "https://cis.ieee.org/images/files/Documents/Newsletter/IEEE-CIS-Newsletter-Issue-69-October-2018-_-IEEE-Computational-Intelligence-Society.pdf",
+        "https://ieeexplore.ieee.org/abstract/document/8625247",
+        "https://flll.jku.at/staff/paulo"
+      ]
+    },
+    {
+      "id": "trujillo-iberamia-2018",
+      "event": "IBERAMIA 2018",
+      "eventFull": "16th Ibero-American Conference on Artificial Intelligence (IBERAMIA 2018)",
+      "year": 2018,
+      "city": {
+        "en": "Trujillo",
+        "pt": "Trujillo"
+      },
+      "country": {
+        "en": "Peru",
+        "pt": "Peru"
+      },
+      "countryCode": "PE",
+      "region": "americas",
+      "lat": -8.1116,
+      "lon": -79.0287,
+      "paper": "Using Fuzzy Neural Networks to the Prediction of Improvement in Expert Systems for Treatment of Immunotherapy",
+      "url": "https://www.iberamia.org/iberamia/iberamia2018/",
+      "attendance": "user-recalled",
+      "sources": [
+        "https://www.iberamia.org/iberamia/iberamia2018/",
+        "https://link.springer.com/book/10.1007/978-3-030-03928-8?page=2"
+      ]
+    },
+    {
+      "id": "new-orleans-fuzz-ieee-2019",
+      "event": "FUZZ-IEEE 2019",
+      "eventFull": "IEEE International Conference on Fuzzy Systems (FUZZ-IEEE 2019)",
+      "year": 2019,
+      "city": {
+        "en": "New Orleans",
+        "pt": "New Orleans"
+      },
+      "country": {
+        "en": "United States",
+        "pt": "Estados Unidos"
+      },
+      "countryCode": "US",
+      "region": "americas",
+      "lat": 29.9511,
+      "lon": -90.0715,
+      "paper": "Using hybrid systems in the construction of expert systems in the identification of cognitive and motor problems in children and young people",
+      "url": "https://ewh.ieee.org/conf/fuzz/",
+      "attendance": "user-recalled",
+      "sources": [
+        "https://ewh.ieee.org/conf/fuzz/"
+      ]
+    },
+    {
+      "id": "mexico-city-ssci-2023",
+      "event": "SSCI 2023",
+      "eventFull": "IEEE Symposium Series on Computational Intelligence (SSCI 2023)",
+      "year": 2023,
+      "city": {
+        "en": "Mexico City",
+        "pt": "Cidade do México"
+      },
+      "country": {
+        "en": "Mexico",
+        "pt": "México"
+      },
+      "countryCode": "MX",
+      "region": "americas",
+      "lat": 19.4326,
+      "lon": -99.1332,
+      "paper": "Knowledge Extraction About Beer Classification Using Evolving Fuzzy Neural Networks",
+      "url": "https://ieeexplore.ieee.org/abstract/document/10372012",
+      "attendance": "user-recalled",
+      "sources": [
+        "https://ieeexplore.ieee.org/abstract/document/10372012",
+        "https://cris.fbk.eu/browse?authority=rp27679&etal=-1&offset=40&order=ASC&rpp=20&sort_by=2&starts_with=&type=author",
+        "https://doi.org/10.1109/SSCI52147.2023.10371797"
+      ]
+    },
+    {
+      "id": "salt-lake-city-aime-2024",
+      "event": "AIME 2024",
+      "eventFull": "22nd International Conference on Artificial Intelligence in Medicine (AIME 2024)",
+      "year": 2024,
+      "city": {
+        "en": "Salt Lake City",
+        "pt": "Salt Lake City"
+      },
+      "country": {
+        "en": "United States",
+        "pt": "Estados Unidos"
+      },
+      "countryCode": "US",
+      "region": "americas",
+      "lat": 40.7608,
+      "lon": -111.891,
+      "paper": "Fuzzy Neural Network Model Based on Uni-Nullneuron in Extracting Knowledge About Risk Factors of Maternal Health",
+      "url": "https://aime24.aimedicine.info/",
+      "attendance": "user-recalled",
+      "sources": [
+        "https://aime24.aimedicine.info/",
+        "https://link.springer.com/chapter/10.1007/978-3-031-66538-7_8",
+        "https://link.springer.com/conference/aime"
+      ]
+    },
+    {
+      "id": "wcci-2024-yokohama",
+      "event": "WCCI / FUZZ-IEEE 2024",
+      "eventFull": "IEEE WCCI 2024 / FUZZ-IEEE 2024",
+      "year": 2024,
+      "city": {
+        "en": "Yokohama",
+        "pt": "Yokohama"
+      },
+      "country": {
+        "en": "Japan",
+        "pt": "Japão"
+      },
+      "countryCode": "JP",
+      "region": "asia",
+      "lat": 35.4437,
+      "lon": 139.638,
+      "paper": "PEFNN: Parallel Evolving Fuzzy Neural Network for Sepsis Identification in Patients",
+      "url": "https://2024.ieeewcci.org/",
+      "attendance": "user-recalled",
+      "sources": [
+        "https://2024.ieeewcci.org/",
+        "https://confcats-siteplex.s3.us-east-1.amazonaws.com/wcci24/IEEE_WCCI_2024_Program_7c48ff24cf.pdf"
+      ]
+    },
+    {
+      "id": "ifsa-eusflat-2021-bratislava",
+      "event": "IFSA-EUSFLAT 2021",
+      "eventFull": "IFSA-EUSFLAT 2021",
+      "year": 2021,
+      "city": {
+        "en": "Bratislava",
+        "pt": "Bratislava"
+      },
+      "country": {
+        "en": "Slovakia",
+        "pt": "Eslováquia"
+      },
+      "countryCode": "SK",
+      "region": "europe",
+      "lat": 48.1486,
+      "lon": 17.1077,
+      "paper": "Evolving Fuzzy Neural Network Based on Uni-nullneuron to Identify Auction Fraud",
+      "url": "https://eusflat.org/best-student-paper-award-at-eusflat-conferences/",
+      "attendance": "user-recalled",
+      "sources": [
+        "https://eusflat.org/best-student-paper-award-at-eusflat-conferences/",
+        "https://www.ifsa-eusflat2021.eu/",
+        "https://eusflat.org/eusflat-and-endorsed-events-calendar/"
+      ],
+      "award": {
+        "en": "Best Student-Paper Award · EUSFLAT 2021",
+        "pt": "Prêmio de melhor artigo de estudante · EUSFLAT 2021"
+      }
+    },
+    {
+      "id": "eais-2018-rhodes",
+      "event": "IEEE EAIS 2018",
+      "eventFull": "IEEE EAIS 2018",
+      "year": 2018,
+      "city": {
+        "en": "Rhodes",
+        "pt": "Rodes"
+      },
+      "country": {
+        "en": "Greece",
+        "pt": "Grécia"
+      },
+      "countryCode": "GR",
+      "region": "europe",
+      "lat": 36.4349,
+      "lon": 28.2176,
+      "paper": "Uninorm Based Regularized Fuzzy Neural Networks",
+      "url": "https://easyconferences.eu/eais2018/",
+      "attendance": "user-recalled",
+      "sources": [
+        "https://easyconferences.eu/eais2018/",
+        "https://legacy.cyprusconferences.org/portfolio/eais-2018/"
+      ]
+    },
+    {
+      "id": "smc-2019-bari",
+      "event": "IEEE SMC 2019",
+      "eventFull": "IEEE SMC 2019",
+      "year": 2019,
+      "city": {
+        "en": "Bari",
+        "pt": "Bari"
+      },
+      "country": {
+        "en": "Italy",
+        "pt": "Itália"
+      },
+      "countryCode": "IT",
+      "region": "europe",
+      "lat": 41.1171,
+      "lon": 16.8719,
+      "paper": "A Method to Improve Speed of Training Algorithm in Artificial Hydrocarbon Networks",
+      "url": "https://www.ieeesmc.org/blog/2018/07/10/2019-ieee-international-conference-on-systems-man-and-cybernetics/",
+      "attendance": "user-recalled",
+      "sources": [
+        "https://www.ieeesmc.org/blog/2018/07/10/2019-ieee-international-conference-on-systems-man-and-cybernetics/",
+        "https://www.ieeesmc.org/blog/2019/11/21/report-on-smc-2019-in-bari-italy/",
+        "https://www.flll.jku.at/staff/paulo"
+      ]
+    },
+    {
+      "id": "wcci-2022-padua",
+      "event": "WCCI / FUZZ-IEEE 2022",
+      "eventFull": "IEEE WCCI 2022 / FUZZ-IEEE 2022",
+      "year": 2022,
+      "city": {
+        "en": "Padua (Padova)",
+        "pt": "Pádua"
+      },
+      "country": {
+        "en": "Italy",
+        "pt": "Itália"
+      },
+      "countryCode": "IT",
+      "region": "europe",
+      "lat": 45.4064,
+      "lon": 11.8768,
+      "paper": "An Interpretable Uni-nullneuron-based Evolving Neuro-fuzzy Network Acting to Identify Dry Beans",
+      "url": "https://wcci2022.org/venue/",
+      "attendance": "user-recalled",
+      "sources": [
+        "https://wcci2022.org/venue/",
+        "https://www.inns.org/ijcnn-past-conferences",
+        "https://research.jku.at/en/projects/interactive-machine-learning-with-evolving-fuzzy-systems/",
+        "https://www.fwf.ac.at/en/research-radar/10.55776/P32272"
+      ]
+    },
+    {
+      "id": "eais-2024-madrid",
+      "event": "IEEE EAIS 2024",
+      "eventFull": "IEEE EAIS 2024",
+      "year": 2024,
+      "city": {
+        "en": "Madrid",
+        "pt": "Madrid"
+      },
+      "country": {
+        "en": "Spain",
+        "pt": "Espanha"
+      },
+      "countryCode": "ES",
+      "region": "europe",
+      "lat": 40.4168,
+      "lon": -3.7038,
+      "paper": "Knowledge Extraction in Auction Verification Employing Techniques from Machine Learning and Fuzzy Neural Networks",
+      "url": "https://eventos.uc3m.es/97610/detail/ieee-international-conference-on-evolving-and-adaptive-intellig",
+      "attendance": "user-recalled",
+      "sources": [
+        "https://eventos.uc3m.es/97610/detail/ieee-international-conference-on-evolving-and-adaptive-intellig"
+      ]
+    },
+    {
+      "id": "icann-2024-lugano",
+      "event": "ICANN 2024",
+      "eventFull": "ICANN 2024",
+      "year": 2024,
+      "city": {
+        "en": "Lugano",
+        "pt": "Lugano"
+      },
+      "country": {
+        "en": "Switzerland",
+        "pt": "Suíça"
+      },
+      "countryCode": "CH",
+      "region": "europe",
+      "lat": 46.0037,
+      "lon": 8.9511,
+      "paper": "OFNN-UNI: Enhanced Optimized Fuzzy Neural Networks Based on Unineurons for Advanced Sepsis Classification",
+      "url": "https://www.inf.usi.ch/en/node/10861",
+      "attendance": "user-recalled",
+      "sources": [
+        "https://www.inf.usi.ch/en/node/10861",
+        "https://e-nns.org/icann2024/participants/conference-venue/",
+        "https://link.springer.com/book/10.1007/978-3-031-72353-7"
+      ]
+    },
+    {
+      "id": "wcci-2026-maastricht",
+      "event": "WCCI / IJCNN 2026",
+      "eventFull": "IEEE WCCI 2026 / IJCNN 2026",
+      "year": 2026,
+      "city": {
+        "en": "Maastricht",
+        "pt": "Maastricht"
+      },
+      "country": {
+        "en": "Netherlands",
+        "pt": "Países Baixos"
+      },
+      "countryCode": "NL",
+      "region": "europe",
+      "lat": 50.8514,
+      "lon": 5.691,
+      "paper": "Hybrid Knowledge Representation for Temporal Forecasting: Interpretable Symbolic Extraction from ARIMAX and Rule-Based Learning",
+      "url": "https://www.mecc.nl/en/world-computational-intelligence-conference/",
+      "attendance": "user-recalled",
+      "sources": [
+        "https://www.mecc.nl/en/world-computational-intelligence-conference/",
+        "https://novaresearch.unl.pt/en/publications/hybrid-knowledge-representation-for-temporal-forecasting-interpre/",
+        "https://attend.ieee.org/wcci-2026/"
+      ]
+    }
+  ],
+  "upcoming": [
+    {
+      "id": "ifsa-eusflat-2027-bari",
+      "event": "IFSA–EUSFLAT 2027",
+      "year": 2027,
+      "city": {
+        "en": "Bari, Italy",
+        "pt": "Bari, Itália"
+      },
+      "dates": {
+        "en": "13–17 September 2027",
+        "pt": "13–17 de setembro de 2027"
+      },
+      "date_start": "2027-09-13",
+      "date_end": "2027-09-17",
+      "role": {
+        "en": "Special session co-organizer",
+        "pt": "Coorganizador de sessão especial"
+      },
+      "statusLabel": {
+        "en": "On the calendar · special session co-organizer",
+        "pt": "Na agenda · coorganizador de sessão especial"
+      },
+      "url": "https://eusflat.org/2027-conference/",
+      "attendance": "planned-event"
+    }
+  ]
+}
